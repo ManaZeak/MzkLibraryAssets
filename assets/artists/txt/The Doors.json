@@ -1,0 +1,58 @@
+{
+  "name": "The Doors",
+  "yearsActive": "1965-1973",
+  "originCountry": "USA",
+  "links": [{
+    "type": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Doors/"
+  }],
+  "members": [{
+    "name": "James Douglas Morrisson",
+    "alias": ["Jim Morrisson", "The Lizard King", "Mr. Mojo Risin"],
+    "birth": "1943-12-08",
+    "death": "1971-07-03",
+    "placeOfBirth": "Melbourne (FL)",
+    "countryOfBirth": "USA",
+    "placeOfDeath": "Paris",
+    "countryOfDeath": "FRA",
+    "yearsActive": "1965-1971",
+    "bio": ""
+  }, {
+    "name": "John Paul Densmore",
+    "alias": ["John Densmore"],
+    "birth": "1944-12-01",
+    "death": "",
+    "placeOfBirth": "Los Angeles (CA)",
+    "countryOfBirth": "USA",
+    "placeOfDeath": "",
+    "countryOfDeath": "",
+    "yearsActive": "1965-1973",
+    "bio": ""
+  }, {
+    "name": "Raymond Daniel Manczarek Jr.",
+    "alias": ["Ray Manzarek"],
+    "birth": "1939-02-12",
+    "death": "2013-05-20",
+    "placeOfBirth": "Chicago (IL)",
+    "countryOfBirth": "USA",
+    "placeOfDeath": "Rosenheim",
+    "countryOfDeath": "DEU",
+    "yearsActive": "1965-1973",
+    "bio": ""
+  }, {
+    "name": "Robert Alan Krieger",
+    "alias": ["Robby Krieger"],
+    "birth": "1946-01-08",
+    "death": "",
+    "placeOfBirth": "Los Angeles (CA)",
+    "countryOfBirth": "USA",
+    "placeOfDeath": "",
+    "countryOfDeath": "",
+    "yearsActive": "1965-1973",
+    "bio": ""
+  }],
+  "testimony": {
+    "from": "Marilyn Manson",
+    "text": "Jim Morrison said it best: \"all the children are insane,\" and he meant it like I mean it. We are children revolted by the banality of what people think is sane. When Jim rambled, quite profoundly, \"Rock & roll is dead,\" and \"Hitler is still alive…. I slept with her last night,\" he knew then what we are choking on now. You can't change the world, and if you try, you just end up destroying it. We love all things to death. We leave the lights on, turn everything up to 10 and fuck everything we fear.\n\nIn 10th grade I was told to read No One Here Gets Out Alive, the biography of Jim Morrison. Everything I'm interested in now got started with that book. It made me want to be a writer, and I started with poetry and short stories. We don't know what was really going on in Morrison's head, but I liked trying to piece it together. The immortality of his words, the mystery of his existence appealed to my sense of fantasy. I found \"Moonlight Drive\" — particularly when accompanied by \"Horse Latitudes\" — scary and sexually mystifying, like Happy Days told by Ted Bundy. I read the poem in front of my 10th-grade English class, and it was as awe-inspiring then as it is now. Words like \"mute nostril agony\" and \"carefully refined and sealed over\" always stung in the corners of my eyes.\n\nI think the Doors still fit in because they never fit in in the first place. They didn't have a bass player. The music often had nothing to do with what Morrison was singing. The keyboard held everything together. Most bands can still get through a show if the keyboardist breaks a finger. Not the Doors. Robby Krieger played very odd guitar parts if you compare him to Jimmy Page or Keith Richards. Yet all this combined into something unique that grabbed people's attention.\n\nMorrison's voice was a beautiful pond for anything to drown in. Whatever he sang became as deep as he was. He had the unnameable thing that people will always be drawn to. I've always thought of the Doors as the first punk band, even more than the Stooges or the Ramones. They didn't sound anything like punk rock, but Morrison outshined everyone else when it came to rebellion and not playing by anyone else's rules. There are a lot of bands that seem to want to sound like the Doors filtered through grunge or neogrunge — or whatever it is. But it's all just ideas pasted on ideas, faded copies of copies. If you want to be like Jim Morrison, don't try. You can't be anything like Jim Morrison. It's about finding your own place in the world."
+  }
+}
