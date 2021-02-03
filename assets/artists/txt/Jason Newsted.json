@@ -1,0 +1,25 @@
+{
+  "type": "artist",
+  "name": "Jason Newsted",
+  "realName": "Jason Curtis Newsted",
+  "alias": ["Jason Newsted", "Jasonic", "Newkid"],
+  "originCountry": "USA",
+  "yearsActive": "1981-xxxx",
+  "birth": "1963-03-04",
+  "placeOfBirth": "Battle Creek (MI)",
+  "countryOfBirth": "USA",
+  "death": "",
+  "placeOfDeath": "",
+  "countryOfDeath": "",
+  "bio": "Jason Curtis Newsted is an American heavy metal musician who was the bassist of American thrash metal band Metallica from October 1986 until January 2001.\n\nBefore Metallica, he was a member of Flotsam and Jetsam. After Metallica, he has been involved with Echobrain, Ozzy Osbourne, Voivod, and led the band Newsted from 2012 to 2014. With Voivod, he used the pseudonym Jasonic, which is also the name of his music publishing company. He is also the founder of the Chophouse Records studio and label based in California.\n\nFollowing Cliff Burton's death, Metallica began a search for a new bassist. They considered and auditioned over 50 musicians. To his advantage, Newsted strategically procured the band's setlist, studied it, and presented it to drummer Lars Ulrich saying he knew all these songs, much to Ulrich's surprise. Two days later, Metallica invited Newsted back and announced to him that he had been chosen to fill the bassist position.\n\nDuring a meeting between the members of Metallica in January 2001, Newsted proposed that the band should take a year-long hiatus, and he would use that time to focus on his side-project Echobrain. When the other band members rejected Newsted's proposals, he chose to quit the band.\n\nNewsted has stated that he has never regretted leaving the band. In a 2009 interview, he said \"I tell you very honestly, one billion percent, I have never regretted leaving Metallica. It was the right thing for everyone. It was the right thing to do for the camp. That's it. I've never told anyone that I wanted to go back or anything like that—not once. I made up my mind. It was not an easy thing to do, but it was something I had to do. I thought about it very much before I pulled the trigger and because of that, I have never looked back. The past is where it's supposed to be.\".",
+  "links": [{
+    "type": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jason_Newsted"
+  }, {
+    "type": "discogs",
+    "url": "https://www.discogs.com/artist/390503-Jason-Newsted"
+  }, {
+    "type": "lastfm",
+    "url": "https://www.last.fm/music/Jason+Newsted"
+  }]
+}

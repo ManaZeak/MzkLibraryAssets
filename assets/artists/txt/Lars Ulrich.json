@@ -1,0 +1,25 @@
+{
+  "type": "artist",
+  "name": "Lars Ulrich",
+  "realName": "Lars Ulrich R",
+  "alias": ["Lars Ulrich"],
+  "originCountry": "DNK",
+  "yearsActive": "1980-xxxx",
+  "birth": "1963-12-26",
+  "placeOfBirth": "Gentofte",
+  "countryOfBirth": "DNK",
+  "death": "",
+  "placeOfDeath": "",
+  "countryOfDeath": "",
+  "bio": "Lars Ulrich R is a Danish musician, songwriter, and record producer. He gained worldwide fame as the drummer and co-founder of American heavy metal band Metallica. The son and grandson respectively of tennis players Torben and Einer Ulrich, he played tennis in his youth and moved to Los Angeles at age 16 to train professionally. However, rather than playing tennis, Ulrich began playing drums. After publishing an advertisement in The Recycler, Ulrich met James Hetfield and formed Metallica.\n\nAlong with Hetfield, Ulrich has songwriting credits on almost all of the band's songs. He became known as a pioneer of fast thrash drum beats, featured on many of Metallica's early songs, such as \"Metal Militia\" from Kill 'Em All, \"Fight Fire with Fire\" from Ride the Lightning, \"Battery\" and \"Damage Inc.\" from Master of Puppets and \"Dyers Eve\" from ...And Justice for All. He has since been considerably influential due to both the popularity of his band, as well as his drum techniques, such as the double bass drum in the song \"One\" (...And Justice for All) and \"Dyers Eve\". Since the release of Metallica, Ulrich adopted a less focused and simplified style of drumming, and reduced his kit from a 9-piece to a 7-piece. In April 2000, Ulrich became a vocal opponent of Napster and file sharing as Metallica filed a lawsuit against the company for copyright infringement and racketeering. In July 2000, he testified before the Senate Judiciary Committee after Metallica's entire catalogue, including the then-unfinished track \"I Disappear\" was found to be freely available for download on the service.",
+  "links": [{
+    "type": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lars_Ulrich"
+  }, {
+    "type": "discogs",
+    "url": "https://www.discogs.com/artist/251550-Lars-Ulrich"
+  }, {
+    "type": "lastfm",
+    "url": "https://www.last.fm/music/Lars+Ulrich"
+  }]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "artist",
+  "name": "Dave Mustaine",
+  "realName": "David Scott Mustaine",
+  "alias": ["Dave Mustaine"],
+  "originCountry": "USA",
+  "yearsActive": "1978-xxxx",
+  "birth": "1961-09-13",
+  "placeOfBirth": "La Mesa (CA)",
+  "countryOfBirth": "USA",
+  "death": "",
+  "placeOfDeath": "",
+  "countryOfDeath": "",
+  "bio": "David Scott Mustaine is an American musician best known as the co-founder, vocalist, lead guitarist, and primary songwriter of American Thrash metal band Megadeth. Prior to forming Megadeth, Mustaine was the original lead guitarist of American heavy metal band Metallica.\n\nMetallica began recording their first album titled Kill 'Em All in 1983 but Mustaine's tenure with Metallica was short-lived. Before the album was even completed, Brian Slagel, owner of Metal Blade Records, recalled in an interview: \"Dave was an incredibly talented guy but he also had an incredibly large problem with alcohol and drugs. He'd get wasted and become a real crazy person, a raging megalomaniac, and the other guys just couldn't deal with that after a while. I mean, they all drank of course, but Dave drank more… much more. I could see they were beginning to get fed up of seeing Dave drunk out of his mind all the time.\".\n\nOn April 11, 1983, after Metallica had driven to New York to record their debut album, Mustaine was officially ejected from the band because of his alcoholism, drug abuse, overly aggressive behavior, and personal clashes with founding members Hetfield and Ulrich, an incident Mustaine refers to as \"no warning, no second chance\". The band packed up Mustaine's gear, drove him to the Port Authority Bus Terminal, and put him on a Greyhound bus bound for Los Angeles. It was on this bus ride that Mustaine scribbled some lyrical ideas on the back of a hand bill, which later became the song \"Set the World Afire\" from the 1988 Megadeth album So Far, So Good... So What!",
+  "links": [{
+    "type": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dave_Mustaine"
+  }, {
+    "type": "discogs",
+    "url": "https://www.discogs.com/artist/251808-Dave-Mustaine"
+  }, {
+    "type": "lastfm",
+    "url": "https://www.last.fm/music/Dave+Mustaine"
+  }]
+}

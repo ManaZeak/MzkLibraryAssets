@@ -1,0 +1,25 @@
+{
+  "type": "artist",
+  "name": "Jim Morrisson",
+  "realName": "James Douglas Morrison",
+  "alias": ["Jim Morrison", "The Lizard King", "Mr. Mojo Risin"],
+  "originCountry": "USA",
+  "yearsActive": "1963-1971",
+  "birth": "1943-12-08",
+  "placeOfBirth": "Melbourne (FL)",
+  "countryOfBirth": "USA",
+  "death": "1971-07-03",
+  "placeOfDeath": "Paris",
+  "countryOfDeath": "FRA",
+  "bio": "James Douglas Morrison was an American singer, songwriter and poet, who served as the lead vocalist of the rock band the Doors. Due to his wild personality, poetic lyrics, distinctive voice, unpredictable and erratic performances, and the dramatic circumstances surrounding his life and early death, Morrison is regarded by music critics and fans as one of the most iconic and influential frontmen in rock history. Since his death, his fame has endured as one of popular culture's most rebellious and oft-displayed icons, representing the generation gap and youth counterculture. Together with Ray Manzarek, Morrison co-founded the Doors during the summer of 1965 in Venice, California. The band spent two years in obscurity until shooting to prominence with their number-one single in the United States, \"Light My Fire\", taken from their self-titled debut album. Morrison recorded a total of six studio albums with the Doors, all of which sold well and received critical acclaim. Morrison was well known for improvising spoken word poetry passages while the band played live. Manzarek said Morrison \"embodied hippie counterculture rebellion\". Morrison developed an alcohol dependency during the 1960s, which at times affected his performances on stage. He died unexpectedly at the age of 27 in Paris, among conflicting witness and alleged witness reports. As no autopsy was performed, the cause of Morrison's death remains disputed. Though the Doors recorded two more albums after Morrison died, his death severely affected the band's fortunes, and they split up in 1973. In 1993, Morrison was inducted into the Rock and Roll Hall of Fame as a member of the Doors. In 2008, he was ranked 47th in Rolling Stone magazine's list  \"The 100 Greatest Singers of All Time\".",
+  "links": [{
+    "type": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jim_Morrison"
+  }, {
+    "type": "discogs",
+    "url": "https://www.discogs.com/artist/260501-Jim-Morrison"
+  }, {
+    "type": "lastfm",
+    "url": "https://www.last.fm/music/Jim+Morrison"
+  }]
+}

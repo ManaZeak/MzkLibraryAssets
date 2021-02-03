@@ -1,0 +1,25 @@
+{
+  "type": "artist",
+  "name": "Robert Trujillo",
+  "realName": "Roberto Agustín Miguel Santiago Samuel Trujillo Veracruz",
+  "alias": ["Robert Trujillo"],
+  "originCountry": "USA",
+  "yearsActive": "1978-xxxx",
+  "birth": "1964-10-23",
+  "placeOfBirth": "Santa Monica (CA)",
+  "countryOfBirth": "USA",
+  "death": "",
+  "placeOfDeath": "",
+  "countryOfDeath": "",
+  "bio": "Robert Trujillo is an American musician and songwriter, best known for being the bassist of heavy metal band Metallica since 2003. He was a member of crossover thrash band Suicidal Tendencies, funk metal supergroup Infectious Grooves, and heavy metal band Black Label Society, and has worked with Jerry Cantrell and Ozzy Osbourne.\n\nTrujillo gained prominence when he replaced Bob Heathcote as the bassist for California crossover thrash band Suicidal Tendencies. Initially billed as \"Stymee\" on the 1989 album Controlled by Hatred/Feel Like Shit...Déjà Vu, Trujillo remained in the band until the mid-1990s. Concurrent to his work with Suicidal Tendencies, Trujillo was a member of the band's side project, Infectious Grooves, along with vocalist Mike Muir. Trujillo was a member of Ozzy Osbourne's band for a number of years starting in the late 1990s. In contrast to his earlier jazz and funk inspired playing, Osbourne's band was more straightforward to hard rock and metal. Trujillo co-wrote several songs on the Down to Earth album. Trujillo joined Metallica on February 24, 2003, two years after Jason Newsted resigned. He had previously met and befriended his future bandmates when Suicidal Tendencies supported Metallica during the Nowhere Else to Roam tour in 1993, and again during the Shit Hits the Sheds Tour one year later.",
+  "links": [{
+    "type": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Robert_Trujillo"
+  }, {
+    "type": "discogs",
+    "url": "https://www.discogs.com/artist/490079-Robert-Trujillo"
+  }, {
+    "type": "lastfm",
+    "url": "https://www.last.fm/music/Robert+Trujillo"
+  }]
+}

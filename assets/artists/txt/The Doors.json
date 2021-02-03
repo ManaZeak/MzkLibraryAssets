@@ -1,55 +1,33 @@
 {
+  "type": "band",
   "name": "The Doors",
   "yearsActive": "1965-1973",
   "originCountry": "USA",
+  "members": [
+    "Jim Morrison",
+    "John Densmore",
+    "Ray Manzarek",
+    "Robby Krieger"
+  ],
+  "pastMembers": [],
+  "genres": [
+    "Acid Rock",
+    "Blues Rock",
+    "Psychedelic Rock"
+  ],
+  "labels": [
+    "Elektra Records"
+  ],
+  "bio": "The Doors were an American rock band formed in Los Angeles in 1965, with vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore. They were among the most controversial and influential rock acts of the 1960s, also because of Morrison's lyrics and voice along with his erratic stage persona, and the group was widely regarded as an important part of the era's counterculture.\n\nThe band took its name from the title of Aldous Huxley's book The Doors of Perception, itself a reference to a quote by William Blake. After signing with Elektra Records, the Doors with Morrison released six albums in five years, some of which are considered among the greatest of all time, including The Doors (1967), Strange Days (1967), and L.A. Woman (1971). They were one of the most successful bands during that time and by 1972 the Doors had sold over 4 million albums domestically and nearly 8 million singles.\n\nMorrison died in uncertain circumstances in 1971. The band continued as a trio until disbanding in 1973. They released three more albums in the 1970s, two of which featured earlier recordings by Morrison, and over the decades reunited on stage in various configurations. In 2002, Manzarek, Krieger and Ian Astbury of the Cult on vocals started performing as \"The Doors of the 21st Century\". Densmore and the Morrison estate successfully sued them over the use of the band's name. After a short time as Riders on the Storm, they settled on the name Manzarek–Krieger and toured until Manzarek's death in 2013.\n\nThe Doors were the first American band to accumulate eight consecutive gold LPs. According to the RIAA, they have sold 33 million records in the US and over 100 million records worldwide, making them one of the best-selling bands of all time. The Doors have been listed as one of the greatest artists of all time by magazines including Rolling Stone, which ranked them 41st on its list of the \"100 Greatest Artists of All Time\". In 1993, they were inducted into the Rock and Roll Hall of Fame.\n\nThe band took their name from the title of Aldous Huxley's book The Doors of Perception, itself derived from a line in William Blake's The Marriage of Heaven and Hell: \"If the doors of perception were cleansed, everything would appear to man as it is: infinite\".",
   "links": [{
     "type": "wikipedia",
-    "url": "https://en.wikipedia.org/wiki/The_Doors/"
-  }],
-  "members": [{
-    "name": "James Douglas Morrisson",
-    "alias": ["Jim Morrisson", "The Lizard King", "Mr. Mojo Risin"],
-    "birth": "1943-12-08",
-    "death": "1971-07-03",
-    "placeOfBirth": "Melbourne (FL)",
-    "countryOfBirth": "USA",
-    "placeOfDeath": "Paris",
-    "countryOfDeath": "FRA",
-    "yearsActive": "1965-1971",
-    "bio": ""
+    "url": "https://en.wikipedia.org/wiki/The_Doors"
   }, {
-    "name": "John Paul Densmore",
-    "alias": ["John Densmore"],
-    "birth": "1944-12-01",
-    "death": "",
-    "placeOfBirth": "Los Angeles (CA)",
-    "countryOfBirth": "USA",
-    "placeOfDeath": "",
-    "countryOfDeath": "",
-    "yearsActive": "1965-1973",
-    "bio": ""
+    "type": "discogs",
+    "url": "https://www.discogs.com/artist/56798-The-Doors"
   }, {
-    "name": "Raymond Daniel Manczarek Jr.",
-    "alias": ["Ray Manzarek"],
-    "birth": "1939-02-12",
-    "death": "2013-05-20",
-    "placeOfBirth": "Chicago (IL)",
-    "countryOfBirth": "USA",
-    "placeOfDeath": "Rosenheim",
-    "countryOfDeath": "DEU",
-    "yearsActive": "1965-1973",
-    "bio": ""
-  }, {
-    "name": "Robert Alan Krieger",
-    "alias": ["Robby Krieger"],
-    "birth": "1946-01-08",
-    "death": "",
-    "placeOfBirth": "Los Angeles (CA)",
-    "countryOfBirth": "USA",
-    "placeOfDeath": "",
-    "countryOfDeath": "",
-    "yearsActive": "1965-1973",
-    "bio": ""
+    "type": "lastfm",
+    "url": "https://www.last.fm/music/The+Doors"
   }],
   "testimony": {
     "from": "Marilyn Manson",

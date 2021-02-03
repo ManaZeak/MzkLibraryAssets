@@ -1,0 +1,25 @@
+{
+  "type": "artist",
+  "name": "Robby Krieger",
+  "realName": "Robert Alan Krieger",
+  "alias": ["Robby Krieger"],
+  "originCountry": "USA",
+  "yearsActive": "1964-xxxx",
+  "birth": "1946-01-08",
+  "placeOfBirth": "Los Angeles (CA)",
+  "countryOfBirth": "USA",
+  "death": "",
+  "placeOfDeath": "",
+  "countryOfDeath": "",
+  "bio": "Robert Alan Krieger is an American guitarist and singer-songwriter best known as the guitarist of the rock band the Doors; as such he has been inducted into the Rock and Roll Hall of Fame. Krieger wrote or co-wrote many of the Doors' songs, including the hits \"Light My Fire\", \"Love Me Two Times\", \"Touch Me\", and \"Love Her Madly\". After the Doors disbanded, Krieger continued his performing and recording career with other musicians including former Doors bandmates John Densmore and Ray Manzarek. He was listed by Rolling Stone as one of the 100 greatest guitarists of all time. Krieger became a member of the Doors in 1965, joining keyboard player Ray Manzarek, drummer John Densmore and vocalist Jim Morrison, after Manzarek's brothers left the group. At an early Doors rehearsal Morrison heard Krieger playing bottleneck guitar and initially wanted the technique featured on every song on the first album. Krieger's fingerstyle approach to the electric guitar, broad musical tastes, and songwriting helped establish the Doors as a successful rock band in the 1960s. Together with Densmore, he studied under Indian sitarist Ravi Shankar at the Kinnara School of Music in Los Angeles. After Morrison's death in 1971, Krieger, Manzarek and Densmore carried on as a trio. They released two more albums as the Doors before disbanding in 1973, though they did reconvene a few years later to create music for poetry that Morrison had recorded shortly before his death, released as the 1978 album An American Prayer.",
+  "links": [{
+    "type": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Robby_Krieger"
+  }, {
+    "type": "discogs",
+    "url": "https://www.discogs.com/artist/271569-Robby-Kriegerk"
+  }, {
+    "type": "lastfm",
+    "url": "https://www.last.fm/music/Robby+Krieger"
+  }]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "artist",
+  "name": "Ray Manzarek",
+  "realName": "Raymond Daniel Manczarek Jr.",
+  "alias": ["Ray Manzarek"],
+  "originCountry": "USA",
+  "yearsActive": "1959–2013",
+  "birth": "1939-02-12",
+  "placeOfBirth": "Chicago (IL)",
+  "countryOfBirth": "USA",
+  "death": "2013-05-20",
+  "placeOfDeath": "Rosenheim",
+  "countryOfDeath": "DEU",
+  "bio": "Raymond Daniel Manzarek Jr. was an American musician, singer, producer, film director, and author. He was best known as a member of the Doors from 1965 to 1973, which he co-founded with singer and lyricist Jim Morrison. Manzarek was inducted into the Rock and Roll Hall of Fame in 1993 as a member of the Doors. He was a co-founding member of Nite City from 1977 to 1978, and of Manzarek–Krieger from 2001 until his death in 2013. USA Today defined him as \"one of the best keyboardists ever\". The Doors lacked a bass guitarist (except during recording sessions), so for live performances Manzarek played the bass parts on a Fender Rhodes piano keyboard bass. During the Morrison era, Manzarek was the group's regular backing vocalist.[citation needed] He occasionally sang lead, as exemplified by covers of Muddy Waters's \"Close to You\" (released on 1970s Absolutely Live) and \"You Need Meat (Don't Go No Further)\" (recorded during the L.A. Woman sessions and initially released as the B-side of \"Love Her Madly\"). He went on to share lead vocals with Krieger on the albums (Other Voices and Full Circle) released after Morrison's death. During June through August 2011, Manzarek recorded \"Breakn' a Sweat\" with DJ Skrillex and his fellow former Doors members Robby Krieger and John Densmore. In March 2013, Manzarek was diagnosed with a rare cancer called cholangiocarcinoma and traveled to Germany for special treatment, where he finally died.",
+  "links": [{
+    "type": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ray_Manzarek"
+  }, {
+    "type": "discogs",
+    "url": "https://www.discogs.com/artist/242088-Ray-Manzarek"
+  }, {
+    "type": "lastfm",
+    "url": "https://www.last.fm/music/Ray+Manzarek"
+  }]
+}
